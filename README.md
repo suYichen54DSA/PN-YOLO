@@ -31,7 +31,7 @@ The framework consists of two complementary components:
 
 ### Model Framework Illustration
 
-![PN-YOLOv5 Model Framework](.github/PN-YOLO.png)
+![PN-YOLOv5 Model Framework](PN-YOLOv5/.github/PN-YOLO.png)
 
 *Figure: The overall framework of PN-YOLOv5, illustrating the integration of Next-ViT backbone for phenology recognition and prototypical network enhanced YOLOv5 for object detection, leveraging temporal metadata for improved feature learning.*
 
